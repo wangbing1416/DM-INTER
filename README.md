@@ -30,10 +30,22 @@ where `--dataset` includes gossip, politifact, snopes; `--model_name` contains t
 
 - Check log files in `./log`, and we prepare an automatic tool `read_results.py` to convert log files to an excel table. 
 
-### Tips
-
-
 ### Citation
-```
 
+- ArXiv version
+
+```
+@article{wang2024why,
+  author       = {Bing Wang and
+                  Ximing Li and
+                  Changchun Li and
+                  Bo Fu and
+                  Songwen Pei and
+                  Shengsheng Wang},
+  title        = {Why Misinformation is Created? Detecting them by Integrating Intent
+                  Features},
+  journal      = {CoRR},
+  volume       = {abs/2407.19196},
+  year         = {2024},
+}
 ```
