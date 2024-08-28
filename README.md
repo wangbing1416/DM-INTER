@@ -1,5 +1,5 @@
 # DM-INTER
-This repo is the released code of our work **WhyMisinformation is Created? Detecting them by Integrating Intent Features**, published in CIKM'24.
+This repo is the released code of our work **Why Misinformation is Created? Detecting them by Integrating Intent Features**, published in CIKM'24.
 
 🎉 [ 2024/07 ] This paper is accepted by CIKM 2024.
 
